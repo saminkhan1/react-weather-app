@@ -1,5 +1,7 @@
 This project was created using React.js, Bootstrap, Javacript, CSS3, HTML5
 
+Link to the project: http://react-weather-app-khan.herokuapp.com/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
